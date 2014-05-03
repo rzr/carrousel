@@ -50,3 +50,9 @@ config.h.in
 *.snm
 *.toc
 *.vrb
+*~
+debian/*.log
+debian/*.substvars
+debian/*/*/*
+debian/files
+packaging/*/*
